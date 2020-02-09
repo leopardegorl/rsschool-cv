@@ -1,0 +1,79 @@
+div {
+  width: 200px;
+  left: 100px;
+  right: 500px;
+  margin: auto;
+  float: right;
+}
+
+body {
+  width: 1024px;
+  border: 2px solid black;
+  text-align: center;
+  margin: auto;
+  background: url(images/abstract-background-clipart-hd-3.png) bottom no-repeat;
+}
+
+header {
+  color: blue;
+  font-size: 36px;
+  text-align: left;
+  padding-bottom: 10px;
+  padding-right: 10%;
+  margin-left: 10%;
+}
+
+section {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 30px;
+}
+
+section h1 {
+  border-bottom: 0.5px solid rgba(107, 105, 105, 0.932);
+  padding-bottom: 10px;
+  font-size: 95%;
+}
+
+section ol,
+p {
+  font-size: 60%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+section h2 {
+  font-size: 85%;
+  font-weight: lighter;
+  text-align: left;
+  color: rgb(105, 100, 100);
+  border-bottom: 0.5px solid rgba(107, 105, 105, 0.932);
+  padding-bottom: 10px;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+#special {
+  padding-bottom: 5px;
+}
+
+#special_2 {
+  padding-top: 5px;
+}
+
+code {
+  font-size: 60%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+section span {
+  font-weight: bold;
+}
+
+pre {
+  background-color: rgb(215, 250, 250);
+}
